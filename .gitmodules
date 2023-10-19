@@ -1,0 +1,3 @@
+[submodule "joao-gabriel"]
+	path = joao-gabriel
+	url = https://github.com/jooag/char-rnn
